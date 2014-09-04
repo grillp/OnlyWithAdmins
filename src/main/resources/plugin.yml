@@ -1,0 +1,3 @@
+name: OnlyWithAdmins
+main: com.cancas.bukkit.onlywithadmins.OnlyWithAdmins
+version: 0.0.1
